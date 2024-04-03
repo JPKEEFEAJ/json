@@ -1,5 +1,5 @@
 {"recipes":[  
-    {"name":"Monkey Bread", "id":"1", "creator":"Family Recipe", "ingredients":[
+    {"name":"Monkey Bread", "desc":"A wonderful treat that is easy to make and easier to eat!", "prepTime":"3", "creator":"Family Recipe", "ingredients":[
       "a1",
       "a2",
       "a3",
@@ -8,7 +8,7 @@
       "testa1",
       "testa2"],
     "image":"MonkeyBread"},  
-    {"name":"Mac & Cheese", "id":"2", "creator":"Family Recipe", "ingredients":[
+    {"name":"Mac & Cheese", "desc":"A great dish for all of the family. Made with _ cheese, it's taste will make you want more!", "prepTime":"3", "creator":"Family Recipe", "ingredients":[
       "b1",
       "b2",
       "b3",
@@ -17,7 +17,7 @@
       "testb1",
       "testb2"],
     "image":"MacAndCheese"},  
-    {"name":"Waffles", "id":"3", "creator":"Clover Johnson", "ingredients":[
+    {"name":"Waffles", "desc":"A great way to start your morning on a high note with this quick and easy meal!", "prepTime":"3", "creator":"Clover Johnson", "ingredients":[
       "1 Egg",
       "1 1/2 Cups Water",
       "2 TBS Vegetable Oil",
