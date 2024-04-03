@@ -1,12 +1,15 @@
 {"recipes":[  
-    {"name":"Monkey Bread", "desc":"A wonderful treat that is easy to make and easier to eat!", "prepTime":"3", "creator":"Family Recipe", "ingredients":[
-      "a1",
-      "a2",
-      "a3",
-      "a4"
+    {"name":"Monkey Bread", "desc":"A wonderful treat that is easy to make and easier to eat!", "prepTime":"55", "creator":"Family Recipe", "ingredients":[
+      "3 packages of tube biscuits, cut into 4ths",
+      "1 Cup of brown sugar",
+      "1/2 Cup of sugar",
+      "1 stick of butter"
     ], "recipe":[
-      "testa1",
-      "testa2"],
+      "Place 1/4 Cups of brown sugar into a plastic bag.",
+      "Shake the biscuits in the bagand arrange them into a buttered tube pan.",
+      "In a heavy saucepan, combine the butter stick, the sugar, and 3/4 Cups of brown sugar.",
+      "Boil the mixture for 30 seconds, and pour the mixture over the biscuits.",
+      "Bake in the oven at 350°F for 45 minutes."],
     "image":"MonkeyBread"},  
     {"name":"Mac & Cheese", "desc":"A great dish for all of the family. Made with cheddar cheese, it's taste will make you want more!", "prepTime":"3", "creator":"Family Recipe", "ingredients":[
       "b1",
