@@ -1,6 +1,22 @@
 {"recipes":[  
-    {"name":"Monkey Bread", "creator":"Family Recipe"},  
-    {"name":"Mac & Cheese", "creator":"Family Recipe"},  
+    {"name":"Monkey Bread", "creator":"Family Recipe", "ingredients":[
+      "a1",
+      "a2",
+      "a3",
+      "a4"
+    ], "recipe":[
+      "testa1",
+      "testa2"],
+    "image":"Monkey"},  
+    {"name":"Mac & Cheese", "creator":"Family Recipe", "ingredients":[
+      "b1",
+      "b2",
+      "b3",
+      "b4"
+    ], "recipe":[
+      "testb1",
+      "testb2"],
+    "image":"Mac"},  
     {"name":"Waffles", "creator":"Clover Johnson", "ingredients":[
       "1 Egg",
       "1 1/2 Cups Water",
