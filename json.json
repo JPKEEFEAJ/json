@@ -7,7 +7,7 @@
     ], "recipe":[
       "testa1",
       "testa2"],
-    "image":"Monkey"},  
+    "image":"MonkeyBread"},  
     {"name":"Mac & Cheese", "id":"2", "creator":"Family Recipe", "ingredients":[
       "b1",
       "b2",
@@ -16,7 +16,7 @@
     ], "recipe":[
       "testb1",
       "testb2"],
-    "image":"Mac"},  
+    "image":"MacAndCheese"},  
     {"name":"Waffles", "id":"3", "creator":"Clover Johnson", "ingredients":[
       "1 Egg",
       "1 1/2 Cups Water",
