@@ -1,0 +1,13 @@
+{"recipes":[  
+    {"name":"Monkey Bread", "creator":"Family Recipe"},  
+    {"name":"Mac & Cheese", "creator":"Family Recipe"},  
+    {"name":"Waffles", "creator":"Clover Johnson", "ingredients":[
+      "1 Egg",
+      "1 1/2 Cups Water",
+      "2 TBS Vegetable Oil",
+      "2 Cups Waffle Mix"
+    ], "recipe":[
+      "Mix the ingredients into a bowl",
+      "Pour the mixture into a waffle maker"],
+    "image":"waffles"}
+]}
