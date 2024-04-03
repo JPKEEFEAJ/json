@@ -8,7 +8,7 @@
       "testa1",
       "testa2"],
     "image":"MonkeyBread"},  
-    {"name":"Mac & Cheese", "desc":"A great dish for all of the family. Made with _ cheese, it's taste will make you want more!", "prepTime":"3", "creator":"Family Recipe", "ingredients":[
+    {"name":"Mac & Cheese", "desc":"A great dish for all of the family. Made with cheddar cheese, it's taste will make you want more!", "prepTime":"3", "creator":"Family Recipe", "ingredients":[
       "b1",
       "b2",
       "b3",
