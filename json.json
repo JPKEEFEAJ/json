@@ -1,9 +1,9 @@
 {"recipes":[  
     {"name":"Monkey Bread", "desc":"A wonderful treat that is easy to make and easier to eat!", "prepTime":"55", "creator":"Family Recipe", "ingredients":[
       "3 packages of tube biscuits, cut into 4ths",
-      "1 Cup of brown sugar",
-      "1/2 Cup of sugar",
-      "1 stick of butter"
+      "1 Cup of Brown Sugar",
+      "1/2 Cup of Sugar",
+      "1 Stick of Butter"
     ], "recipe":[
       "Place 1/4 Cups of brown sugar into a plastic bag.",
       "Shake the biscuits in the bagand arrange them into a buttered tube pan.",
@@ -11,14 +11,17 @@
       "Boil the mixture for 30 seconds, and pour the mixture over the biscuits.",
       "Bake in the oven at 350°F for 45 minutes."],
     "image":"MonkeyBread", "href":"monkeyBread"},  
-    {"name":"Mac & Cheese", "desc":"A great dish for all of the family. Made with cheddar cheese, it's taste will make you want more!", "prepTime":"3", "creator":"Family Recipe", "ingredients":[
-      "b1",
-      "b2",
-      "b3",
-      "b4"
+    {"name":"Mac & Cheese", "desc":"A great dish for all of the family. Made with cheddar cheese, it's taste will make you want more!", "prepTime":"15-25", "creator":"Kraft", "ingredients":[
+      "Pasta",
+      "Cheese Sauce",
+      "1 TBS of Milk",
+      "1 to 1.5 TBS Stick Butter"
     ], "recipe":[
-      "testb1",
-      "testb2"],
+      "Fill a pot with water, and bring it to a boil.",
+      "Pour the pasta into the pot, and stir every 2-3 minutes.",
+      "Once the pasta is done, put it in a strainer, and then back in the pot.",
+      "Add the butter and stif until the butter is mostly absorbed",
+      "Add in the milk, and then the cheese sauce. Stir until the pasta is yellow.",],
     "image":"MacAndCheese", "href":"macAndCheese"},  
     {"name":"Waffles", "desc":"A great way to start your morning on a high note with this quick and easy meal!", "prepTime":"5-8", "creator":"Clover Johnson", "ingredients":[
       "1 Egg",
