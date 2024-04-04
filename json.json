@@ -10,7 +10,7 @@
       "In a heavy saucepan, combine the butter stick, the sugar, and 3/4 Cups of brown sugar.",
       "Boil the mixture for 30 seconds, and pour the mixture over the biscuits.",
       "Bake in the oven at 350°F for 45 minutes."],
-    "image":"MonkeyBread"},  
+    "image":"MonkeyBread", "href":"monkeyBread"},  
     {"name":"Mac & Cheese", "desc":"A great dish for all of the family. Made with cheddar cheese, it's taste will make you want more!", "prepTime":"3", "creator":"Family Recipe", "ingredients":[
       "b1",
       "b2",
@@ -19,7 +19,7 @@
     ], "recipe":[
       "testb1",
       "testb2"],
-    "image":"MacAndCheese"},  
+    "image":"MacAndCheese", "href":"macAndCheese"},  
     {"name":"Waffles", "desc":"A great way to start your morning on a high note with this quick and easy meal!", "prepTime":"3", "creator":"Clover Johnson", "ingredients":[
       "1 Egg",
       "1 1/2 Cups Water",
@@ -28,5 +28,5 @@
     ], "recipe":[
       "Mix the ingredients into a bowl",
       "Pour the mixture into a waffle maker"],
-    "image":"waffles"}
+    "image":"waffles", "href":"waffles"}
 ]}
